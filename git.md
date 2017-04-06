@@ -29,4 +29,5 @@ Result
  ## More
  
  Git document: https://git-scm.com/docs/git-cherry-pick
+ 
  Don't forget ``git rebase`` :)
