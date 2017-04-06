@@ -4,7 +4,7 @@
               \
     feat       -> E -> F
   
-## D -> feat
+D -> feat
  
     git checkout feat
     git cherry-pick D
@@ -15,7 +15,7 @@ Result
               \
     feat       -> E -> F -> D' (D' = D)
 
-## C D -> feat
+C D -> feat
 
     git checkout feat
     git cherry-pick C D
@@ -26,8 +26,8 @@ Result
               \
     feat       -> E -> F -> C' -> D' (C' = C, D' = D)
     
- ## More
+More
  
- Git document: https://git-scm.com/docs/git-cherry-pick
- 
- Don't forget ``git rebase`` :)
+Git document: https://git-scm.com/docs/git-cherry-pick
+
+Don't forget ``git rebase`` :)
