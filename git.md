@@ -31,3 +31,8 @@ More
 Git document: https://git-scm.com/docs/git-cherry-pick
 
 Don't forget ``git rebase`` :)
+
+# ``git log`` List commits
+
+    git log --pretty=oneline
+    git log --pretty=format:"%h : %s"
