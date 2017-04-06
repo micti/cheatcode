@@ -1,1 +1,2 @@
 Dog eats my brain
+🐶 🍽 👱 🧠
